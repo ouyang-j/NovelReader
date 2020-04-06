@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="15dp">
+
+    <EditText
+        android:id="@+id/et"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:hint="Search the word you want from the novel"
+        android:layout_marginTop="50dp"></EditText>
+    <Button
+        android:id="@+id/search1"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_below="@+id/et"
+        android:layout_marginTop="20dp"
+        android:text="search"
+        android:onClick="readInfo"></Button>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/search1"
+        android:layout_marginTop="20dp"
+        android:id="@+id/result"
+        android:text=""></TextView>
+
+
+</RelativeLayout>
