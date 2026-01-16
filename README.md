@@ -1,4 +1,4 @@
-# Novel Reader (Android)
+# Novel Reader (Android) 
 
 A lightweight Android application for reading internal novels, featuring an optimized keyword search engine built from scratch using Binary Search Tree (BST) algorithms.
 
@@ -17,5 +17,8 @@ Instead of using standard library search functions, I implemented a **Binary Sea
 
 ## 4. Tech Stack
 * **Language:** Java
-* **IDE:** Android Studio
+* **IDE:** Eclipse Android Studio
 * **Data Structures:** Binary Trees, String Arrays
+
+## 5. P.S.
+This project was developed in 2019 as my high school CS project. The code might be outdated.
