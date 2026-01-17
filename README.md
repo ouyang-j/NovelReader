@@ -1,4 +1,7 @@
 # Novel Reader (Android) 
+![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=AndroidStudio&logoColor=white)
 
 A lightweight Android application for reading internal novels, featuring an optimized keyword search engine built from scratch using Binary Search Tree (BST) algorithms.
 
